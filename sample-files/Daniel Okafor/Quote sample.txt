@@ -1,0 +1,11 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Supplier quote
+Customer: Daniel Okafor (demo customer)
+Loan reference: LN-24078
+
+Item: Renovation materials
+Amount: Example only
+
+This fictional sample is not a supplier quotation and contains no real pricing or customer information.

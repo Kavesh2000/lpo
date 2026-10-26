@@ -1,0 +1,11 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Enrollment letter
+Customer: Elena Vasquez (demo customer)
+Loan reference: LN-24077
+
+Institution: Example Learning Centre
+Status: Enrolled (fictional sample)
+
+This example is for demonstrating customer document viewing only.

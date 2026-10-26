@@ -1,0 +1,8 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Identity document
+Customer: Priya Nair (demo customer)
+Loan reference: LN-24079
+
+This sample contains no genuine identification details and is provided only to demonstrate viewing customer files in the lending system.

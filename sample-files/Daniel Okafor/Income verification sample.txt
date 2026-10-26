@@ -1,0 +1,10 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Income verification
+Customer: Daniel Okafor (demo customer)
+Loan reference: LN-24078
+
+Verification status: Example document for interface demonstration only.
+
+This fictional sample contains no real employer, salary, or customer information.

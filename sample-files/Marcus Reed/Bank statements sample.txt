@@ -1,0 +1,8 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Bank statement summary
+Customer: Marcus Reed (demo customer)
+Loan reference: LN-24080
+
+This fictional sample represents a supporting bank statement document. It contains no real account numbers, transactions, or customer data.

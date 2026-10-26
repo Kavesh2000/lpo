@@ -1,0 +1,11 @@
+MAISHA MICROFINANCE BANK
+DEMONSTRATION SAMPLE - NOT A REAL CUSTOMER DOCUMENT
+
+Document type: Loan application
+Customer: Noah Williams (demo customer)
+Loan reference: LN-24076
+
+Loan purpose: Debt consolidation
+Status: Declined (demo record)
+
+This fictional sample contains no real application or customer data.
